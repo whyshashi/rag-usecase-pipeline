@@ -22,7 +22,10 @@ Configure environment variables GOOGLE_API_KEY in .env file.
 
 ##  Architecture
 
+![alt text](multiModalRag.png)
+
 ![alt text](ragArchitecture.png)
+
 
 ##  Setup Instructions
 
